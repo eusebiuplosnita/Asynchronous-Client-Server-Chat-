@@ -1,0 +1,11 @@
+c:\documents and settings\daniel.cojo\my documents\visual studio 2010\Projects\AsynchronousServer\AsynchronousServer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\daniel.cojo\my documents\visual studio 2010\Projects\AsynchronousServer\AsynchronousServer\obj\x86\Debug\AsynchronousServer.Form1.resources
+c:\documents and settings\daniel.cojo\my documents\visual studio 2010\Projects\AsynchronousServer\AsynchronousServer\obj\x86\Debug\AsynchronousServer.Properties.Resources.resources
+c:\documents and settings\daniel.cojo\my documents\visual studio 2010\Projects\AsynchronousServer\AsynchronousServer\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\daniel.cojo\my documents\visual studio 2010\Projects\AsynchronousServer\AsynchronousServer\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\daniel.cojo\my documents\visual studio 2010\Projects\AsynchronousServer\AsynchronousServer\bin\Debug\AsynchronousServer.exe
+c:\documents and settings\daniel.cojo\my documents\visual studio 2010\Projects\AsynchronousServer\AsynchronousServer\bin\Debug\AsynchronousServer.pdb
+c:\documents and settings\daniel.cojo\my documents\visual studio 2010\Projects\AsynchronousServer\AsynchronousServer\obj\x86\Debug\AsynchronousServer.exe
+c:\documents and settings\daniel.cojo\my documents\visual studio 2010\Projects\AsynchronousServer\AsynchronousServer\obj\x86\Debug\AsynchronousServer.pdb
+\\FENRIR\eusebiu.plosnita\Docs\Downloads\AsynchronousServer\AsynchronousServer\obj\x86\Debug\AsynchronousServer.exe
+\\FENRIR\eusebiu.plosnita\Docs\Downloads\AsynchronousServer\AsynchronousServer\obj\x86\Debug\AsynchronousServer.pdb

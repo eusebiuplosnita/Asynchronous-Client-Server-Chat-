@@ -10,3 +10,5 @@ c:\documents and settings\daniel.cojo\my documents\visual studio 2010\Projects\C
 c:\documents and settings\daniel.cojo\my documents\visual studio 2010\Projects\ClientForm\ClientForm\obj\x86\Debug\ClientForm.pdb
 c:\documents and settings\daniel.cojo\my documents\visual studio 2010\Projects\ClientForm\ClientForm\obj\x86\Debug\ClientForm.AddFriend.resources
 C:\Documents and Settings\Daniel.COJO\My Documents\Visual Studio 2010\Projects\ClientForm\ClientForm\obj\x86\Debug\ClientForm.Chat.resources
+\\FENRIR\eusebiu.plosnita\Docs\Downloads\ClientForm\ClientForm\obj\x86\Debug\ClientForm.exe
+\\FENRIR\eusebiu.plosnita\Docs\Downloads\ClientForm\ClientForm\obj\x86\Debug\ClientForm.pdb
