@@ -1,0 +1,10 @@
+c:\documents and settings\daniel.cojo\my documents\visual studio 2010\Projects\Server\Server\bin\Debug\Server.exe
+c:\documents and settings\daniel.cojo\my documents\visual studio 2010\Projects\Server\Server\bin\Debug\Server.pdb
+c:\documents and settings\daniel.cojo\my documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\daniel.cojo\my documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\Server.exe
+c:\documents and settings\daniel.cojo\my documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\Server.pdb
+H:\seby\facultate\an3_sem1\dotNet\Server\Server\obj\x86\Debug\Server.exe
+H:\seby\facultate\an3_sem1\dotNet\Server\Server\obj\x86\Debug\Server.pdb
+H:\seby\facultate\an3_sem1\dotNet\Server\Server\bin\Debug\Server.exe
+H:\seby\facultate\an3_sem1\dotNet\Server\Server\bin\Debug\Server.pdb
+H:\seby\facultate\an3_sem1\dotNet\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
